@@ -14,5 +14,5 @@ simple_ping_test_csv_v2.py - dest_ip
 python3 -m http.server 8080
 #Run this from a directory and use the outward facing IP address, also rename the download file to test.
 
-To run the program use the following command:
+To run the program use the following command: \n
 python3 automater.py
